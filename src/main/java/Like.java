@@ -3,5 +3,6 @@ public class Like {
         System.out.println("좋아요 기능");
         System.out.println("싫어요 기능");
         System.out.println("싫어요 기능");
+        System.out.println("찜하기 기능");
     }
 }
